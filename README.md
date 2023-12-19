@@ -3,6 +3,7 @@ I am a programmer living in the UK 🇬🇧 <small> Its a tip </small>.
 
 ## Contact
 ![contact_d](https://dcbadge.vercel.app/api/shield/454821956223762453)
+
 <small> Anything else would be too invasive </small>
 
 ## Note
