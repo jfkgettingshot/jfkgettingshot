@@ -1,9 +1,6 @@
 ## About Me
 I am a programmer living in the UK 🇬🇧 <sub> Its a tip </sub>.
 
-## Contact
-![contact_d](https://dcbadge.vercel.app/api/shield/454821956223762453)
-
 <sub> Anything else would be too invasive </sub>
 
 ## Note
